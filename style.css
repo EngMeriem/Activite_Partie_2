@@ -1,6 +1,6 @@
 div
 {
-    background-image: linear-gradient(blue, green);
+    background-image: linear-gradient(to right, blue, green);
 
     /* Obligatoire si on veut "voir" le dégradé */
     width: 400px;
